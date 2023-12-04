@@ -1,6 +1,6 @@
 # Hi there || Merhaba || Hola!! 👋  I'm Merve! 🌟 Passionate Developer & Lifelong Learner
 
-I'm Merve, a Turkish native currently residing in Gijon, Spain. I'm fluent in both Turkish and English, with basic proficiency in Spanish.
+My name is Merve. Originally from Turkey, I currently reside in Spain. I'm fluent in both Turkish and English, with basic proficiency in Spanish.
 
 ## 🚀 Featured Projects
 
