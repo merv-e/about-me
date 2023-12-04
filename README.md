@@ -32,6 +32,6 @@ Feel free to dive into these projects and share your thoughts. I'm always open t
 
 - **Psychology and Sociology:** Understanding people and societies deeply fascinates me. Every now and then I like reading some articles in psychology and sociology.
 
-- **Science Fiction and Thrillers:** I'm an avid fan of science fiction and thriller films and series. Favorites include classics like "Alien (1978)," "The Thing," "Expanse," and many more.
+- **Science Fiction and Thrillers:** I'm an avid fan of science fiction and thriller films and series. Favorites include classics like "Alien", "The Thing," "Expanse" and many more.
 
 - **Language Learning:** I have a keen interest in learning different languages and am constantly immersed in the process of picking up a new one.
