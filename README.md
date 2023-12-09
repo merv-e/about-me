@@ -4,8 +4,8 @@ My name is Merve. Originally from Turkey, I currently reside in Spain. I'm fluen
 
 ## 🚀 Featured Projects
 
-### [My Books](https://github.com/merv-e/my-books)
-My-Books is a React-based web application that allows users to discover, search, and manage their book collections. Whether you're an avid reader or just looking for your next read, My-Books provides a user-friendly experience to organize your reading list. 
+### [MyReads](https://github.com/merv-e/my-books)
+MyReads is a React-based web application that allows users to discover, search, and manage their book collections. Whether you're an avid reader or just looking for your next read, MyReads provides a user-friendly experience to organize your reading list. 
 ![Screenshot](screenshots/my-books.jpg)
 
 Check the [Demo](https://my-booooks.netlify.app) here!
