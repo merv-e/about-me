@@ -24,14 +24,3 @@ Explore the [live](https://academic-nest.netlify.app) version of Academic Nest o
 
 
 Feel free to dive into these projects and share your thoughts. I'm always open to collaboration and continually refining my work!
-
-----
-## 💖 My Hobbies
-
-- **Music:** I'm an amateur flutist. Music is a fantastic way for me to express myself and explore creativity.
-
-- **Psychology and Sociology:** Understanding people and societies deeply fascinates me. Every now and then I like reading some articles in psychology and sociology.
-
-- **Science Fiction and Thrillers:** I'm an avid fan of science fiction and thriller films and series. Favorites include classics like "Alien", "The Thing," "Expanse" and many more.
-
-- **Language Learning:** I have a keen interest in learning different languages and am constantly immersed in the process of picking up a new one.
